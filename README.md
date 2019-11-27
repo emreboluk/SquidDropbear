@@ -8,6 +8,14 @@ Ubuntu 16 ve üzerinde çalışır.
 ```sh
 git clone https://github.com/emreboluk/SquidDropbear.git
 cd SquidDropbear
-sudo chmod +x squidropbear.py
-sudo ./squidropbear.py
+```
+
+### Python 3 için
+```sh
+python3 squidropbear.py
+```
+
+### Python 2.7.x için
+```sh
+python squidropbear.py
 ```
