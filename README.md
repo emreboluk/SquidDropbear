@@ -1,5 +1,9 @@
 # Squid & Dropbear Installer
 
+
+![python 2.x | 3.x](https://img.shields.io/pypi/pyversions/svglib.svg)
+
+
 Squid ve DropBear SSH için basit bir kurulum aracıdır.
 Ubuntu 16 ve üzerinde çalışır.
 
