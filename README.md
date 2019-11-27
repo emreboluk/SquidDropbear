@@ -1,4 +1,4 @@
-# SquidDropbear
+# Squid & Dropbear Installer
 
 Squid ve DropBear SSH için basit bir kurulum aracıdır.
 Ubuntu 16 ve üzerinde çalışır.
